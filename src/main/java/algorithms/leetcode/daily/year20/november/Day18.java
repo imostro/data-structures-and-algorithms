@@ -1,4 +1,4 @@
-package algorithms.leetcode.year20.daily.november;
+package algorithms.leetcode.daily.year20.november;
 
 /**
  * 134. 加油站

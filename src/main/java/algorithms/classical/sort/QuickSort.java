@@ -1,10 +1,5 @@
 package algorithms.classical.sort;
 
-import sun.nio.cs.ext.MacHebrew;
-
-import java.util.Arrays;
-
-import static util.CommonUtils.randomArr;
 import static util.CommonUtils.swap;
 
 /**
