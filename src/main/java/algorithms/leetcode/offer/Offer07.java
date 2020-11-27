@@ -1,6 +1,6 @@
 package algorithms.leetcode.offer;
 
-import util.TreeNode;
+import common.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

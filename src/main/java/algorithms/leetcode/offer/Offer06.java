@@ -1,8 +1,7 @@
 package algorithms.leetcode.offer;
 
-import util.ListNode;
+import common.ListNode;
 
-import java.sql.ClientInfoStatus;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;

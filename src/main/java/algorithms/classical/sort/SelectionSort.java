@@ -1,7 +1,7 @@
 package algorithms.classical.sort;
 
-import static util.CommonUtils.less;
-import static util.CommonUtils.swap;
+import static common.CommonUtils.less;
+import static common.CommonUtils.swap;
 
 /**
  * 选择排序

@@ -1,6 +1,6 @@
 package algorithms.classical.sort;
 
-import static util.CommonUtils.swap;
+import static common.CommonUtils.swap;
 
 /**
  * 快速排序

@@ -1,4 +1,4 @@
-package algorithms.leetcode.fang.dp;
+package algorithms.fang.dp;
 
 /**
  * leetcode 718. 最长重复子数组

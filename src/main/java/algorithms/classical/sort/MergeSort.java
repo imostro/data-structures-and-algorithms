@@ -1,6 +1,6 @@
 package algorithms.classical.sort;
 
-import static util.CommonUtils.less;
+import static common.CommonUtils.less;
 
 /**
  * 归并排序

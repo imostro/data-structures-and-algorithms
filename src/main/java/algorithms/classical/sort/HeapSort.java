@@ -1,10 +1,7 @@
 package algorithms.classical.sort;
 
-import java.util.Arrays;
-import java.util.Random;
-
-import static util.CommonUtils.randomArr;
-import static util.CommonUtils.swap;
+import static common.CommonUtils.randomArr;
+import static common.CommonUtils.swap;
 
 /**
  * 堆排序
